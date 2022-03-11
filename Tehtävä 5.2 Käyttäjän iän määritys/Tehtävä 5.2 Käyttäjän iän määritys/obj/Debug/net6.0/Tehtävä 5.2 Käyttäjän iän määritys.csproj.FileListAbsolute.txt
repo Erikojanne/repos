@@ -1,0 +1,15 @@
+C:\Users\janne\source\repos\Tehtävä 5.2 Käyttäjän iän määritys\Tehtävä 5.2 Käyttäjän iän määritys\bin\Debug\net6.0\Tehtävä 5.2 Käyttäjän iän määritys.exe
+C:\Users\janne\source\repos\Tehtävä 5.2 Käyttäjän iän määritys\Tehtävä 5.2 Käyttäjän iän määritys\bin\Debug\net6.0\Tehtävä 5.2 Käyttäjän iän määritys.deps.json
+C:\Users\janne\source\repos\Tehtävä 5.2 Käyttäjän iän määritys\Tehtävä 5.2 Käyttäjän iän määritys\bin\Debug\net6.0\Tehtävä 5.2 Käyttäjän iän määritys.runtimeconfig.json
+C:\Users\janne\source\repos\Tehtävä 5.2 Käyttäjän iän määritys\Tehtävä 5.2 Käyttäjän iän määritys\bin\Debug\net6.0\Tehtävä 5.2 Käyttäjän iän määritys.dll
+C:\Users\janne\source\repos\Tehtävä 5.2 Käyttäjän iän määritys\Tehtävä 5.2 Käyttäjän iän määritys\bin\Debug\net6.0\ref\Tehtävä 5.2 Käyttäjän iän määritys.dll
+C:\Users\janne\source\repos\Tehtävä 5.2 Käyttäjän iän määritys\Tehtävä 5.2 Käyttäjän iän määritys\bin\Debug\net6.0\Tehtävä 5.2 Käyttäjän iän määritys.pdb
+C:\Users\janne\source\repos\Tehtävä 5.2 Käyttäjän iän määritys\Tehtävä 5.2 Käyttäjän iän määritys\obj\Debug\net6.0\Tehtävä 5.2 Käyttäjän iän määritys.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Tehtävä 5.2 Käyttäjän iän määritys\Tehtävä 5.2 Käyttäjän iän määritys\obj\Debug\net6.0\Tehtävä 5.2 Käyttäjän iän määritys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Tehtävä 5.2 Käyttäjän iän määritys\Tehtävä 5.2 Käyttäjän iän määritys\obj\Debug\net6.0\Tehtävä 5.2 Käyttäjän iän määritys.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Tehtävä 5.2 Käyttäjän iän määritys\Tehtävä 5.2 Käyttäjän iän määritys\obj\Debug\net6.0\Tehtävä 5.2 Käyttäjän iän määritys.AssemblyInfo.cs
+C:\Users\janne\source\repos\Tehtävä 5.2 Käyttäjän iän määritys\Tehtävä 5.2 Käyttäjän iän määritys\obj\Debug\net6.0\Tehtävä 5.2 Käyttäjän iän määritys.csproj.CoreCompileInputs.cache
+C:\Users\janne\source\repos\Tehtävä 5.2 Käyttäjän iän määritys\Tehtävä 5.2 Käyttäjän iän määritys\obj\Debug\net6.0\Tehtävä 5.2 Käyttäjän iän määritys.dll
+C:\Users\janne\source\repos\Tehtävä 5.2 Käyttäjän iän määritys\Tehtävä 5.2 Käyttäjän iän määritys\obj\Debug\net6.0\ref\Tehtävä 5.2 Käyttäjän iän määritys.dll
+C:\Users\janne\source\repos\Tehtävä 5.2 Käyttäjän iän määritys\Tehtävä 5.2 Käyttäjän iän määritys\obj\Debug\net6.0\Tehtävä 5.2 Käyttäjän iän määritys.pdb
+C:\Users\janne\source\repos\Tehtävä 5.2 Käyttäjän iän määritys\Tehtävä 5.2 Käyttäjän iän määritys\obj\Debug\net6.0\Tehtävä 5.2 Käyttäjän iän määritys.genruntimeconfig.cache

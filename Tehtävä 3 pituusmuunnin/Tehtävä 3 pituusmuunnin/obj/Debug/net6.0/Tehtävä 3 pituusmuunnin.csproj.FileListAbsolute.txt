@@ -1,0 +1,15 @@
+C:\Users\janne\source\repos\Tehtävä 3 pituusmuunnin\Tehtävä 3 pituusmuunnin\bin\Debug\net6.0\Tehtävä 3 pituusmuunnin.exe
+C:\Users\janne\source\repos\Tehtävä 3 pituusmuunnin\Tehtävä 3 pituusmuunnin\bin\Debug\net6.0\Tehtävä 3 pituusmuunnin.deps.json
+C:\Users\janne\source\repos\Tehtävä 3 pituusmuunnin\Tehtävä 3 pituusmuunnin\bin\Debug\net6.0\Tehtävä 3 pituusmuunnin.runtimeconfig.json
+C:\Users\janne\source\repos\Tehtävä 3 pituusmuunnin\Tehtävä 3 pituusmuunnin\bin\Debug\net6.0\Tehtävä 3 pituusmuunnin.dll
+C:\Users\janne\source\repos\Tehtävä 3 pituusmuunnin\Tehtävä 3 pituusmuunnin\bin\Debug\net6.0\ref\Tehtävä 3 pituusmuunnin.dll
+C:\Users\janne\source\repos\Tehtävä 3 pituusmuunnin\Tehtävä 3 pituusmuunnin\bin\Debug\net6.0\Tehtävä 3 pituusmuunnin.pdb
+C:\Users\janne\source\repos\Tehtävä 3 pituusmuunnin\Tehtävä 3 pituusmuunnin\obj\Debug\net6.0\Tehtävä 3 pituusmuunnin.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Tehtävä 3 pituusmuunnin\Tehtävä 3 pituusmuunnin\obj\Debug\net6.0\Tehtävä 3 pituusmuunnin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Tehtävä 3 pituusmuunnin\Tehtävä 3 pituusmuunnin\obj\Debug\net6.0\Tehtävä 3 pituusmuunnin.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Tehtävä 3 pituusmuunnin\Tehtävä 3 pituusmuunnin\obj\Debug\net6.0\Tehtävä 3 pituusmuunnin.AssemblyInfo.cs
+C:\Users\janne\source\repos\Tehtävä 3 pituusmuunnin\Tehtävä 3 pituusmuunnin\obj\Debug\net6.0\Tehtävä 3 pituusmuunnin.csproj.CoreCompileInputs.cache
+C:\Users\janne\source\repos\Tehtävä 3 pituusmuunnin\Tehtävä 3 pituusmuunnin\obj\Debug\net6.0\Tehtävä 3 pituusmuunnin.dll
+C:\Users\janne\source\repos\Tehtävä 3 pituusmuunnin\Tehtävä 3 pituusmuunnin\obj\Debug\net6.0\ref\Tehtävä 3 pituusmuunnin.dll
+C:\Users\janne\source\repos\Tehtävä 3 pituusmuunnin\Tehtävä 3 pituusmuunnin\obj\Debug\net6.0\Tehtävä 3 pituusmuunnin.pdb
+C:\Users\janne\source\repos\Tehtävä 3 pituusmuunnin\Tehtävä 3 pituusmuunnin\obj\Debug\net6.0\Tehtävä 3 pituusmuunnin.genruntimeconfig.cache

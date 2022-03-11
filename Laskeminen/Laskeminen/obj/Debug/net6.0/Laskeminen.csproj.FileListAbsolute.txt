@@ -1,0 +1,15 @@
+C:\Users\janne\source\repos\Laskeminen\Laskeminen\bin\Debug\net6.0\Laskeminen.exe
+C:\Users\janne\source\repos\Laskeminen\Laskeminen\bin\Debug\net6.0\Laskeminen.deps.json
+C:\Users\janne\source\repos\Laskeminen\Laskeminen\bin\Debug\net6.0\Laskeminen.runtimeconfig.json
+C:\Users\janne\source\repos\Laskeminen\Laskeminen\bin\Debug\net6.0\Laskeminen.dll
+C:\Users\janne\source\repos\Laskeminen\Laskeminen\bin\Debug\net6.0\ref\Laskeminen.dll
+C:\Users\janne\source\repos\Laskeminen\Laskeminen\bin\Debug\net6.0\Laskeminen.pdb
+C:\Users\janne\source\repos\Laskeminen\Laskeminen\obj\Debug\net6.0\Laskeminen.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Laskeminen\Laskeminen\obj\Debug\net6.0\Laskeminen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Laskeminen\Laskeminen\obj\Debug\net6.0\Laskeminen.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Laskeminen\Laskeminen\obj\Debug\net6.0\Laskeminen.AssemblyInfo.cs
+C:\Users\janne\source\repos\Laskeminen\Laskeminen\obj\Debug\net6.0\Laskeminen.csproj.CoreCompileInputs.cache
+C:\Users\janne\source\repos\Laskeminen\Laskeminen\obj\Debug\net6.0\Laskeminen.dll
+C:\Users\janne\source\repos\Laskeminen\Laskeminen\obj\Debug\net6.0\ref\Laskeminen.dll
+C:\Users\janne\source\repos\Laskeminen\Laskeminen\obj\Debug\net6.0\Laskeminen.pdb
+C:\Users\janne\source\repos\Laskeminen\Laskeminen\obj\Debug\net6.0\Laskeminen.genruntimeconfig.cache
