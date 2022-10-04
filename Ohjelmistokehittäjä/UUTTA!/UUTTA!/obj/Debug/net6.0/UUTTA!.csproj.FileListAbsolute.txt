@@ -1,0 +1,15 @@
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\UUTTA!\UUTTA!\bin\Debug\net6.0\UUTTA!.exe
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\UUTTA!\UUTTA!\bin\Debug\net6.0\UUTTA!.deps.json
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\UUTTA!\UUTTA!\bin\Debug\net6.0\UUTTA!.runtimeconfig.json
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\UUTTA!\UUTTA!\bin\Debug\net6.0\UUTTA!.dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\UUTTA!\UUTTA!\bin\Debug\net6.0\ref\UUTTA!.dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\UUTTA!\UUTTA!\bin\Debug\net6.0\UUTTA!.pdb
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\UUTTA!\UUTTA!\obj\Debug\net6.0\UUTTA!.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\UUTTA!\UUTTA!\obj\Debug\net6.0\UUTTA!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\UUTTA!\UUTTA!\obj\Debug\net6.0\UUTTA!.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\UUTTA!\UUTTA!\obj\Debug\net6.0\UUTTA!.AssemblyInfo.cs
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\UUTTA!\UUTTA!\obj\Debug\net6.0\UUTTA!.csproj.CoreCompileInputs.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\UUTTA!\UUTTA!\obj\Debug\net6.0\UUTTA!.dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\UUTTA!\UUTTA!\obj\Debug\net6.0\ref\UUTTA!.dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\UUTTA!\UUTTA!\obj\Debug\net6.0\UUTTA!.pdb
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\UUTTA!\UUTTA!\obj\Debug\net6.0\UUTTA!.genruntimeconfig.cache

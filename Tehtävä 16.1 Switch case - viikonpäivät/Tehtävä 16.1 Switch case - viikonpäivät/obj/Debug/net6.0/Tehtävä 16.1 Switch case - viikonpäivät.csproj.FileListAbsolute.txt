@@ -1,0 +1,15 @@
+C:\Users\janne\source\repos\Tehtävä 16.1 Switch case - viikonpäivät\Tehtävä 16.1 Switch case - viikonpäivät\bin\Debug\net6.0\Tehtävä 16.1 Switch case - viikonpäivät.exe
+C:\Users\janne\source\repos\Tehtävä 16.1 Switch case - viikonpäivät\Tehtävä 16.1 Switch case - viikonpäivät\bin\Debug\net6.0\Tehtävä 16.1 Switch case - viikonpäivät.deps.json
+C:\Users\janne\source\repos\Tehtävä 16.1 Switch case - viikonpäivät\Tehtävä 16.1 Switch case - viikonpäivät\bin\Debug\net6.0\Tehtävä 16.1 Switch case - viikonpäivät.runtimeconfig.json
+C:\Users\janne\source\repos\Tehtävä 16.1 Switch case - viikonpäivät\Tehtävä 16.1 Switch case - viikonpäivät\bin\Debug\net6.0\Tehtävä 16.1 Switch case - viikonpäivät.dll
+C:\Users\janne\source\repos\Tehtävä 16.1 Switch case - viikonpäivät\Tehtävä 16.1 Switch case - viikonpäivät\bin\Debug\net6.0\ref\Tehtävä 16.1 Switch case - viikonpäivät.dll
+C:\Users\janne\source\repos\Tehtävä 16.1 Switch case - viikonpäivät\Tehtävä 16.1 Switch case - viikonpäivät\bin\Debug\net6.0\Tehtävä 16.1 Switch case - viikonpäivät.pdb
+C:\Users\janne\source\repos\Tehtävä 16.1 Switch case - viikonpäivät\Tehtävä 16.1 Switch case - viikonpäivät\obj\Debug\net6.0\Tehtävä 16.1 Switch case - viikonpäivät.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Tehtävä 16.1 Switch case - viikonpäivät\Tehtävä 16.1 Switch case - viikonpäivät\obj\Debug\net6.0\Tehtävä 16.1 Switch case - viikonpäivät.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Tehtävä 16.1 Switch case - viikonpäivät\Tehtävä 16.1 Switch case - viikonpäivät\obj\Debug\net6.0\Tehtävä 16.1 Switch case - viikonpäivät.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Tehtävä 16.1 Switch case - viikonpäivät\Tehtävä 16.1 Switch case - viikonpäivät\obj\Debug\net6.0\Tehtävä 16.1 Switch case - viikonpäivät.AssemblyInfo.cs
+C:\Users\janne\source\repos\Tehtävä 16.1 Switch case - viikonpäivät\Tehtävä 16.1 Switch case - viikonpäivät\obj\Debug\net6.0\Tehtävä 16.1 Switch case - viikonpäivät.csproj.CoreCompileInputs.cache
+C:\Users\janne\source\repos\Tehtävä 16.1 Switch case - viikonpäivät\Tehtävä 16.1 Switch case - viikonpäivät\obj\Debug\net6.0\Tehtävä 16.1 Switch case - viikonpäivät.dll
+C:\Users\janne\source\repos\Tehtävä 16.1 Switch case - viikonpäivät\Tehtävä 16.1 Switch case - viikonpäivät\obj\Debug\net6.0\ref\Tehtävä 16.1 Switch case - viikonpäivät.dll
+C:\Users\janne\source\repos\Tehtävä 16.1 Switch case - viikonpäivät\Tehtävä 16.1 Switch case - viikonpäivät\obj\Debug\net6.0\Tehtävä 16.1 Switch case - viikonpäivät.pdb
+C:\Users\janne\source\repos\Tehtävä 16.1 Switch case - viikonpäivät\Tehtävä 16.1 Switch case - viikonpäivät\obj\Debug\net6.0\Tehtävä 16.1 Switch case - viikonpäivät.genruntimeconfig.cache

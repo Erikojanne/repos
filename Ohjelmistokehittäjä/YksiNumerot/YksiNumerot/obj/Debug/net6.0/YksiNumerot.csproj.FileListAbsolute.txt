@@ -1,0 +1,15 @@
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\YksiNumerot\YksiNumerot\bin\Debug\net6.0\YksiNumerot.exe
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\YksiNumerot\YksiNumerot\bin\Debug\net6.0\YksiNumerot.deps.json
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\YksiNumerot\YksiNumerot\bin\Debug\net6.0\YksiNumerot.runtimeconfig.json
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\YksiNumerot\YksiNumerot\bin\Debug\net6.0\YksiNumerot.dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\YksiNumerot\YksiNumerot\bin\Debug\net6.0\ref\YksiNumerot.dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\YksiNumerot\YksiNumerot\bin\Debug\net6.0\YksiNumerot.pdb
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\YksiNumerot\YksiNumerot\obj\Debug\net6.0\YksiNumerot.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\YksiNumerot\YksiNumerot\obj\Debug\net6.0\YksiNumerot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\YksiNumerot\YksiNumerot\obj\Debug\net6.0\YksiNumerot.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\YksiNumerot\YksiNumerot\obj\Debug\net6.0\YksiNumerot.AssemblyInfo.cs
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\YksiNumerot\YksiNumerot\obj\Debug\net6.0\YksiNumerot.csproj.CoreCompileInputs.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\YksiNumerot\YksiNumerot\obj\Debug\net6.0\YksiNumerot.dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\YksiNumerot\YksiNumerot\obj\Debug\net6.0\ref\YksiNumerot.dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\YksiNumerot\YksiNumerot\obj\Debug\net6.0\YksiNumerot.pdb
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\YksiNumerot\YksiNumerot\obj\Debug\net6.0\YksiNumerot.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\janne\source\repos\Tehtävä 15 Try and catch\Tehtävä 15 Try and catch\bin\Debug\net6.0\Tehtävä 15 Try and catch.exe
+C:\Users\janne\source\repos\Tehtävä 15 Try and catch\Tehtävä 15 Try and catch\bin\Debug\net6.0\Tehtävä 15 Try and catch.deps.json
+C:\Users\janne\source\repos\Tehtävä 15 Try and catch\Tehtävä 15 Try and catch\bin\Debug\net6.0\Tehtävä 15 Try and catch.runtimeconfig.json
+C:\Users\janne\source\repos\Tehtävä 15 Try and catch\Tehtävä 15 Try and catch\bin\Debug\net6.0\Tehtävä 15 Try and catch.dll
+C:\Users\janne\source\repos\Tehtävä 15 Try and catch\Tehtävä 15 Try and catch\bin\Debug\net6.0\ref\Tehtävä 15 Try and catch.dll
+C:\Users\janne\source\repos\Tehtävä 15 Try and catch\Tehtävä 15 Try and catch\bin\Debug\net6.0\Tehtävä 15 Try and catch.pdb
+C:\Users\janne\source\repos\Tehtävä 15 Try and catch\Tehtävä 15 Try and catch\obj\Debug\net6.0\Tehtävä 15 Try and catch.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Tehtävä 15 Try and catch\Tehtävä 15 Try and catch\obj\Debug\net6.0\Tehtävä 15 Try and catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Tehtävä 15 Try and catch\Tehtävä 15 Try and catch\obj\Debug\net6.0\Tehtävä 15 Try and catch.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Tehtävä 15 Try and catch\Tehtävä 15 Try and catch\obj\Debug\net6.0\Tehtävä 15 Try and catch.AssemblyInfo.cs
+C:\Users\janne\source\repos\Tehtävä 15 Try and catch\Tehtävä 15 Try and catch\obj\Debug\net6.0\Tehtävä 15 Try and catch.csproj.CoreCompileInputs.cache
+C:\Users\janne\source\repos\Tehtävä 15 Try and catch\Tehtävä 15 Try and catch\obj\Debug\net6.0\Tehtävä 15 Try and catch.dll
+C:\Users\janne\source\repos\Tehtävä 15 Try and catch\Tehtävä 15 Try and catch\obj\Debug\net6.0\ref\Tehtävä 15 Try and catch.dll
+C:\Users\janne\source\repos\Tehtävä 15 Try and catch\Tehtävä 15 Try and catch\obj\Debug\net6.0\Tehtävä 15 Try and catch.pdb
+C:\Users\janne\source\repos\Tehtävä 15 Try and catch\Tehtävä 15 Try and catch\obj\Debug\net6.0\Tehtävä 15 Try and catch.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\janne\source\repos\Tehtävä 21\Tehtävä 21\obj\Release\net6.0\Tehtävä 21.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Tehtävä 21\Tehtävä 21\obj\Release\net6.0\Tehtävä 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Tehtävä 21\Tehtävä 21\obj\Release\net6.0\Tehtävä 21.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Tehtävä 21\Tehtävä 21\obj\Release\net6.0\Tehtävä 21.AssemblyInfo.cs
+C:\Users\janne\source\repos\Tehtävä 21\Tehtävä 21\obj\Release\net6.0\Tehtävä 21.csproj.CoreCompileInputs.cache

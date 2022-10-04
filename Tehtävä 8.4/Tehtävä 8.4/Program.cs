@@ -5,49 +5,35 @@ Console.WriteLine("Tehtävä 8.4 ");
 Console.WriteLine();
 Console.WriteLine("--------------------");
 Console.WriteLine();
-Console.Write("HEROt ovat seuraavat :");
+
+// Luodaan taulukko
+int Hero;
+string[,] nimet = { { ("HERO"), ("Ana"), ("Bastion"), ("Brigette"), ("D.Va (Mech)") },
+                  { ("ROLE"), ("Support"), ("Defence"), ("Support"), ("Tank")},
+                  { ("HEALTH"), ("200"), ("200"), ("200"), ("400")},
+                  { ("AMOR"), ("0"), ("100"), ("50"), ("200") } };
+//Tulostusta
+Console.WriteLine("HEROt ovat seuraavat :");
+Console.WriteLine("(1) Ana ");
+Console.WriteLine("(2) Bastion ");
+Console.WriteLine("(3) Brigette ");
+Console.WriteLine("(4) D.Va (Mech ");
+
 Console.WriteLine();
-int[] luku = { 1, 2, 3, 4};
-string[] nimet = {"Ana", "Bastion", "Brigette", "D.Va(mech)"};
-string[] role = { "Support", "Defence", "Support", "Tank" };
-int[] health = { 200, 200, 200, 400 };
-int[] armor = { 0, 100, 50, 200 };
+//Kysytään arvo
+Console.Write("Valitse minkä HEROn tiedot haluat nähdä ? ");
+
+//Luetaan arvo muutetaan ja tallennetaan
+Hero = int.Parse(Console.ReadLine());
 
 
-
-
-
-
+Console.WriteLine();
 
 for (int i = 0; i < 4; i++)
 {
-    Console.WriteLine(+luku[i] + " " + nimet[i]);
-   
+    Console.Write(nimet[i,Hero] + " " ); // Tulostetaan rivi kerrallaan
 }
 Console.WriteLine();
-//Console.Write("Valitse minkä HEROn tiedot haluat nähdä ? ");
-Console.WriteLine();
-for (int j = 0; j < 4; j++)
-{
-   // Console.Write("Valitse minkä HEROn tiedot haluat nähdä ? ");
-    Console.WriteLine(+ health[j] + " " + armor[j]);
-}
-/*Console.Write("Valitse minkä HEROn tiedot haluat nähdä ? ");
-Console.WriteLine();
-int maara = int.Parse(Console.ReadLine());
-string[] role = new string[maara];
-int[] health = new int[maara];
-int[] armor = new int[maara]; // luodaan taulukko
-
-for (int i = 0;i < maara; i++)
-{
-    Console.Write("Anna {0}. tuotteen nimi ? ", i + 1);
-    role[i] = Console.ReadLine();
-    Console.Write("Anna {0}. tuotteen hinta ? ", i + 1);
-    health[i] = int.Parse(Console.ReadLine());
-    Console.Write("Anna {0}. tuotteen lukumäärä ? ", i + 1);
-    armor[i] = int.Parse(Console.ReadLine());
-}*/
 
 
 

@@ -1,0 +1,15 @@
+C:\Users\janne\source\repos\Tehtävä 14 syötteen tarkistus\Tehtävä 14 syötteen tarkistus\bin\Debug\net6.0\Tehtävä 14 syötteen tarkistus.exe
+C:\Users\janne\source\repos\Tehtävä 14 syötteen tarkistus\Tehtävä 14 syötteen tarkistus\bin\Debug\net6.0\Tehtävä 14 syötteen tarkistus.deps.json
+C:\Users\janne\source\repos\Tehtävä 14 syötteen tarkistus\Tehtävä 14 syötteen tarkistus\bin\Debug\net6.0\Tehtävä 14 syötteen tarkistus.runtimeconfig.json
+C:\Users\janne\source\repos\Tehtävä 14 syötteen tarkistus\Tehtävä 14 syötteen tarkistus\bin\Debug\net6.0\Tehtävä 14 syötteen tarkistus.dll
+C:\Users\janne\source\repos\Tehtävä 14 syötteen tarkistus\Tehtävä 14 syötteen tarkistus\bin\Debug\net6.0\ref\Tehtävä 14 syötteen tarkistus.dll
+C:\Users\janne\source\repos\Tehtävä 14 syötteen tarkistus\Tehtävä 14 syötteen tarkistus\bin\Debug\net6.0\Tehtävä 14 syötteen tarkistus.pdb
+C:\Users\janne\source\repos\Tehtävä 14 syötteen tarkistus\Tehtävä 14 syötteen tarkistus\obj\Debug\net6.0\Tehtävä 14 syötteen tarkistus.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Tehtävä 14 syötteen tarkistus\Tehtävä 14 syötteen tarkistus\obj\Debug\net6.0\Tehtävä 14 syötteen tarkistus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Tehtävä 14 syötteen tarkistus\Tehtävä 14 syötteen tarkistus\obj\Debug\net6.0\Tehtävä 14 syötteen tarkistus.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Tehtävä 14 syötteen tarkistus\Tehtävä 14 syötteen tarkistus\obj\Debug\net6.0\Tehtävä 14 syötteen tarkistus.AssemblyInfo.cs
+C:\Users\janne\source\repos\Tehtävä 14 syötteen tarkistus\Tehtävä 14 syötteen tarkistus\obj\Debug\net6.0\Tehtävä 14 syötteen tarkistus.csproj.CoreCompileInputs.cache
+C:\Users\janne\source\repos\Tehtävä 14 syötteen tarkistus\Tehtävä 14 syötteen tarkistus\obj\Debug\net6.0\Tehtävä 14 syötteen tarkistus.dll
+C:\Users\janne\source\repos\Tehtävä 14 syötteen tarkistus\Tehtävä 14 syötteen tarkistus\obj\Debug\net6.0\ref\Tehtävä 14 syötteen tarkistus.dll
+C:\Users\janne\source\repos\Tehtävä 14 syötteen tarkistus\Tehtävä 14 syötteen tarkistus\obj\Debug\net6.0\Tehtävä 14 syötteen tarkistus.pdb
+C:\Users\janne\source\repos\Tehtävä 14 syötteen tarkistus\Tehtävä 14 syötteen tarkistus\obj\Debug\net6.0\Tehtävä 14 syötteen tarkistus.genruntimeconfig.cache
