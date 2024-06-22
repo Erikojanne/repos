@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tehtävä8 Roomlaiset nro./1.0.0": {
+        "runtime": {
+          "Tehtävä8 Roomlaiset nro..dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tehtävä8 Roomlaiset nro./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

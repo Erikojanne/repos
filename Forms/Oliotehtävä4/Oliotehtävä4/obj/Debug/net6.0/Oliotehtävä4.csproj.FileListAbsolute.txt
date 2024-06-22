@@ -1,0 +1,5 @@
+C:\Users\janne\source\repos\Forms\Oliotehtävä4\Oliotehtävä4\obj\Debug\net6.0\Oliotehtävä4.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Forms\Oliotehtävä4\Oliotehtävä4\obj\Debug\net6.0\Oliotehtävä4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Forms\Oliotehtävä4\Oliotehtävä4\obj\Debug\net6.0\Oliotehtävä4.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Forms\Oliotehtävä4\Oliotehtävä4\obj\Debug\net6.0\Oliotehtävä4.AssemblyInfo.cs
+C:\Users\janne\source\repos\Forms\Oliotehtävä4\Oliotehtävä4\obj\Debug\net6.0\Oliotehtävä4.csproj.CoreCompileInputs.cache

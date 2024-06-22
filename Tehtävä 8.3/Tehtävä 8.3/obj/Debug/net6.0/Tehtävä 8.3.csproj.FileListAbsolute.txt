@@ -2,7 +2,6 @@ C:\Users\janne\source\repos\Tehtävä 8.3\Tehtävä 8.3\bin\Debug\net6.0\Tehtäv
 C:\Users\janne\source\repos\Tehtävä 8.3\Tehtävä 8.3\bin\Debug\net6.0\Tehtävä 8.3.deps.json
 C:\Users\janne\source\repos\Tehtävä 8.3\Tehtävä 8.3\bin\Debug\net6.0\Tehtävä 8.3.runtimeconfig.json
 C:\Users\janne\source\repos\Tehtävä 8.3\Tehtävä 8.3\bin\Debug\net6.0\Tehtävä 8.3.dll
-C:\Users\janne\source\repos\Tehtävä 8.3\Tehtävä 8.3\bin\Debug\net6.0\ref\Tehtävä 8.3.dll
 C:\Users\janne\source\repos\Tehtävä 8.3\Tehtävä 8.3\bin\Debug\net6.0\Tehtävä 8.3.pdb
 C:\Users\janne\source\repos\Tehtävä 8.3\Tehtävä 8.3\obj\Debug\net6.0\Tehtävä 8.3.csproj.AssemblyReference.cache
 C:\Users\janne\source\repos\Tehtävä 8.3\Tehtävä 8.3\obj\Debug\net6.0\Tehtävä 8.3.GeneratedMSBuildEditorConfig.editorconfig
@@ -13,3 +12,4 @@ C:\Users\janne\source\repos\Tehtävä 8.3\Tehtävä 8.3\obj\Debug\net6.0\Tehtäv
 C:\Users\janne\source\repos\Tehtävä 8.3\Tehtävä 8.3\obj\Debug\net6.0\ref\Tehtävä 8.3.dll
 C:\Users\janne\source\repos\Tehtävä 8.3\Tehtävä 8.3\obj\Debug\net6.0\Tehtävä 8.3.pdb
 C:\Users\janne\source\repos\Tehtävä 8.3\Tehtävä 8.3\obj\Debug\net6.0\Tehtävä 8.3.genruntimeconfig.cache
+C:\Users\janne\source\repos\Tehtävä 8.3\Tehtävä 8.3\obj\Debug\net6.0\refint\Tehtävä 8.3.dll

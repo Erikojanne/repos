@@ -1,0 +1,17 @@
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\10.BMI-laskuri\10.BMI-laskuri\bin\Debug\net6.0-windows\10.BMI-laskuri.exe
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\10.BMI-laskuri\10.BMI-laskuri\bin\Debug\net6.0-windows\10.BMI-laskuri.deps.json
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\10.BMI-laskuri\10.BMI-laskuri\bin\Debug\net6.0-windows\10.BMI-laskuri.runtimeconfig.json
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\10.BMI-laskuri\10.BMI-laskuri\bin\Debug\net6.0-windows\10.BMI-laskuri.dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\10.BMI-laskuri\10.BMI-laskuri\bin\Debug\net6.0-windows\10.BMI-laskuri.pdb
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\10.BMI-laskuri\10.BMI-laskuri\obj\Debug\net6.0-windows\10.BMI-laskuri.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\10.BMI-laskuri\10.BMI-laskuri\obj\Debug\net6.0-windows\_10.BMI_laskuri.BMIForm.resources
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\10.BMI-laskuri\10.BMI-laskuri\obj\Debug\net6.0-windows\10.BMI-laskuri.csproj.GenerateResource.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\10.BMI-laskuri\10.BMI-laskuri\obj\Debug\net6.0-windows\10.BMI-laskuri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\10.BMI-laskuri\10.BMI-laskuri\obj\Debug\net6.0-windows\10.BMI-laskuri.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\10.BMI-laskuri\10.BMI-laskuri\obj\Debug\net6.0-windows\10.BMI-laskuri.AssemblyInfo.cs
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\10.BMI-laskuri\10.BMI-laskuri\obj\Debug\net6.0-windows\10.BMI-laskuri.csproj.CoreCompileInputs.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\10.BMI-laskuri\10.BMI-laskuri\obj\Debug\net6.0-windows\10.BMI-laskuri.dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\10.BMI-laskuri\10.BMI-laskuri\obj\Debug\net6.0-windows\refint\10.BMI-laskuri.dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\10.BMI-laskuri\10.BMI-laskuri\obj\Debug\net6.0-windows\10.BMI-laskuri.pdb
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\10.BMI-laskuri\10.BMI-laskuri\obj\Debug\net6.0-windows\10.BMI-laskuri.genruntimeconfig.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\10.BMI-laskuri\10.BMI-laskuri\obj\Debug\net6.0-windows\ref\10.BMI-laskuri.dll

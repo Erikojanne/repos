@@ -1,0 +1,17 @@
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\9 Celcius-Fahrenheit\9 Celcius-Fahrenheit\bin\Debug\net6.0-windows\9 Celcius-Fahrenheit.exe
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\9 Celcius-Fahrenheit\9 Celcius-Fahrenheit\bin\Debug\net6.0-windows\9 Celcius-Fahrenheit.deps.json
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\9 Celcius-Fahrenheit\9 Celcius-Fahrenheit\bin\Debug\net6.0-windows\9 Celcius-Fahrenheit.runtimeconfig.json
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\9 Celcius-Fahrenheit\9 Celcius-Fahrenheit\bin\Debug\net6.0-windows\9 Celcius-Fahrenheit.dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\9 Celcius-Fahrenheit\9 Celcius-Fahrenheit\bin\Debug\net6.0-windows\9 Celcius-Fahrenheit.pdb
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\9 Celcius-Fahrenheit\9 Celcius-Fahrenheit\obj\Debug\net6.0-windows\9 Celcius-Fahrenheit.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\9 Celcius-Fahrenheit\9 Celcius-Fahrenheit\obj\Debug\net6.0-windows\_9_Celcius_Fahrenheit.AsteMuunninForm.resources
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\9 Celcius-Fahrenheit\9 Celcius-Fahrenheit\obj\Debug\net6.0-windows\9 Celcius-Fahrenheit.csproj.GenerateResource.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\9 Celcius-Fahrenheit\9 Celcius-Fahrenheit\obj\Debug\net6.0-windows\9 Celcius-Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\9 Celcius-Fahrenheit\9 Celcius-Fahrenheit\obj\Debug\net6.0-windows\9 Celcius-Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\9 Celcius-Fahrenheit\9 Celcius-Fahrenheit\obj\Debug\net6.0-windows\9 Celcius-Fahrenheit.AssemblyInfo.cs
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\9 Celcius-Fahrenheit\9 Celcius-Fahrenheit\obj\Debug\net6.0-windows\9 Celcius-Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\9 Celcius-Fahrenheit\9 Celcius-Fahrenheit\obj\Debug\net6.0-windows\9 Celcius-Fahrenheit.dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\9 Celcius-Fahrenheit\9 Celcius-Fahrenheit\obj\Debug\net6.0-windows\refint\9 Celcius-Fahrenheit.dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\9 Celcius-Fahrenheit\9 Celcius-Fahrenheit\obj\Debug\net6.0-windows\9 Celcius-Fahrenheit.pdb
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\9 Celcius-Fahrenheit\9 Celcius-Fahrenheit\obj\Debug\net6.0-windows\9 Celcius-Fahrenheit.genruntimeconfig.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\9 Celcius-Fahrenheit\9 Celcius-Fahrenheit\obj\Debug\net6.0-windows\ref\9 Celcius-Fahrenheit.dll

@@ -1,0 +1,5 @@
+C:\Users\janne\source\repos\Forms\Oliotehtävä 4 Asunto\Oliotehtävä 4 Asunto\obj\Debug\net6.0\Oliotehtävä 4 Asunto.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Forms\Oliotehtävä 4 Asunto\Oliotehtävä 4 Asunto\obj\Debug\net6.0\Oliotehtävä 4 Asunto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Forms\Oliotehtävä 4 Asunto\Oliotehtävä 4 Asunto\obj\Debug\net6.0\Oliotehtävä 4 Asunto.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Forms\Oliotehtävä 4 Asunto\Oliotehtävä 4 Asunto\obj\Debug\net6.0\Oliotehtävä 4 Asunto.AssemblyInfo.cs
+C:\Users\janne\source\repos\Forms\Oliotehtävä 4 Asunto\Oliotehtävä 4 Asunto\obj\Debug\net6.0\Oliotehtävä 4 Asunto.csproj.CoreCompileInputs.cache

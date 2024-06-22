@@ -1,0 +1,17 @@
+C:\Users\janne\source\repos\Forms\Ajastin\Ajastin\bin\Debug\net6.0-windows\Ajastin.exe
+C:\Users\janne\source\repos\Forms\Ajastin\Ajastin\bin\Debug\net6.0-windows\Ajastin.deps.json
+C:\Users\janne\source\repos\Forms\Ajastin\Ajastin\bin\Debug\net6.0-windows\Ajastin.runtimeconfig.json
+C:\Users\janne\source\repos\Forms\Ajastin\Ajastin\bin\Debug\net6.0-windows\Ajastin.dll
+C:\Users\janne\source\repos\Forms\Ajastin\Ajastin\bin\Debug\net6.0-windows\Ajastin.pdb
+C:\Users\janne\source\repos\Forms\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Forms\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.TimerForm.resources
+C:\Users\janne\source\repos\Forms\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.csproj.GenerateResource.cache
+C:\Users\janne\source\repos\Forms\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Forms\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Forms\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.AssemblyInfo.cs
+C:\Users\janne\source\repos\Forms\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.csproj.CoreCompileInputs.cache
+C:\Users\janne\source\repos\Forms\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.dll
+C:\Users\janne\source\repos\Forms\Ajastin\Ajastin\obj\Debug\net6.0-windows\refint\Ajastin.dll
+C:\Users\janne\source\repos\Forms\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.pdb
+C:\Users\janne\source\repos\Forms\Ajastin\Ajastin\obj\Debug\net6.0-windows\Ajastin.genruntimeconfig.cache
+C:\Users\janne\source\repos\Forms\Ajastin\Ajastin\obj\Debug\net6.0-windows\ref\Ajastin.dll

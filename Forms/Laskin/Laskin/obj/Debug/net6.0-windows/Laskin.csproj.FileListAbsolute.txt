@@ -1,0 +1,7 @@
+C:\Users\janne\source\repos\Forms\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Forms\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.Form1.resources
+C:\Users\janne\source\repos\Forms\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.csproj.GenerateResource.cache
+C:\Users\janne\source\repos\Forms\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Forms\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Forms\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.AssemblyInfo.cs
+C:\Users\janne\source\repos\Forms\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.csproj.CoreCompileInputs.cache

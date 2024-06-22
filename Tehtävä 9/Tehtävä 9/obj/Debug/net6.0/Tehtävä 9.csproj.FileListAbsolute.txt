@@ -2,7 +2,6 @@ C:\Users\janne\source\repos\Tehtävä 9\Tehtävä 9\bin\Debug\net6.0\Tehtävä 9
 C:\Users\janne\source\repos\Tehtävä 9\Tehtävä 9\bin\Debug\net6.0\Tehtävä 9.deps.json
 C:\Users\janne\source\repos\Tehtävä 9\Tehtävä 9\bin\Debug\net6.0\Tehtävä 9.runtimeconfig.json
 C:\Users\janne\source\repos\Tehtävä 9\Tehtävä 9\bin\Debug\net6.0\Tehtävä 9.dll
-C:\Users\janne\source\repos\Tehtävä 9\Tehtävä 9\bin\Debug\net6.0\ref\Tehtävä 9.dll
 C:\Users\janne\source\repos\Tehtävä 9\Tehtävä 9\bin\Debug\net6.0\Tehtävä 9.pdb
 C:\Users\janne\source\repos\Tehtävä 9\Tehtävä 9\obj\Debug\net6.0\Tehtävä 9.csproj.AssemblyReference.cache
 C:\Users\janne\source\repos\Tehtävä 9\Tehtävä 9\obj\Debug\net6.0\Tehtävä 9.GeneratedMSBuildEditorConfig.editorconfig
@@ -13,3 +12,4 @@ C:\Users\janne\source\repos\Tehtävä 9\Tehtävä 9\obj\Debug\net6.0\Tehtävä 9
 C:\Users\janne\source\repos\Tehtävä 9\Tehtävä 9\obj\Debug\net6.0\ref\Tehtävä 9.dll
 C:\Users\janne\source\repos\Tehtävä 9\Tehtävä 9\obj\Debug\net6.0\Tehtävä 9.pdb
 C:\Users\janne\source\repos\Tehtävä 9\Tehtävä 9\obj\Debug\net6.0\Tehtävä 9.genruntimeconfig.cache
+C:\Users\janne\source\repos\Tehtävä 9\Tehtävä 9\obj\Debug\net6.0\refint\Tehtävä 9.dll

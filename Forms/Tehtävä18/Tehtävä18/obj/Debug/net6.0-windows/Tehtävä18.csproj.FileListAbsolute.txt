@@ -1,0 +1,7 @@
+C:\Users\janne\source\repos\Forms\Tehtävä18\Tehtävä18\obj\Debug\net6.0-windows\Tehtävä18.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Forms\Tehtävä18\Tehtävä18\obj\Debug\net6.0-windows\Tehtävä18.AvainhenkilotForm.resources
+C:\Users\janne\source\repos\Forms\Tehtävä18\Tehtävä18\obj\Debug\net6.0-windows\Tehtävä18.csproj.GenerateResource.cache
+C:\Users\janne\source\repos\Forms\Tehtävä18\Tehtävä18\obj\Debug\net6.0-windows\Tehtävä18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Forms\Tehtävä18\Tehtävä18\obj\Debug\net6.0-windows\Tehtävä18.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Forms\Tehtävä18\Tehtävä18\obj\Debug\net6.0-windows\Tehtävä18.AssemblyInfo.cs
+C:\Users\janne\source\repos\Forms\Tehtävä18\Tehtävä18\obj\Debug\net6.0-windows\Tehtävä18.csproj.CoreCompileInputs.cache

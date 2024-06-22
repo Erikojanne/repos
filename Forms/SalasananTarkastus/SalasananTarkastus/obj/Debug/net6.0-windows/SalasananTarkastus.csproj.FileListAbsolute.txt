@@ -1,0 +1,17 @@
+C:\Users\janne\source\repos\Forms\SalasananTarkastus\SalasananTarkastus\bin\Debug\net6.0-windows\SalasananTarkastus.exe
+C:\Users\janne\source\repos\Forms\SalasananTarkastus\SalasananTarkastus\bin\Debug\net6.0-windows\SalasananTarkastus.deps.json
+C:\Users\janne\source\repos\Forms\SalasananTarkastus\SalasananTarkastus\bin\Debug\net6.0-windows\SalasananTarkastus.runtimeconfig.json
+C:\Users\janne\source\repos\Forms\SalasananTarkastus\SalasananTarkastus\bin\Debug\net6.0-windows\SalasananTarkastus.dll
+C:\Users\janne\source\repos\Forms\SalasananTarkastus\SalasananTarkastus\bin\Debug\net6.0-windows\SalasananTarkastus.pdb
+C:\Users\janne\source\repos\Forms\SalasananTarkastus\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Forms\SalasananTarkastus\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.SalasanaForm.resources
+C:\Users\janne\source\repos\Forms\SalasananTarkastus\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.csproj.GenerateResource.cache
+C:\Users\janne\source\repos\Forms\SalasananTarkastus\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Forms\SalasananTarkastus\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Forms\SalasananTarkastus\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.AssemblyInfo.cs
+C:\Users\janne\source\repos\Forms\SalasananTarkastus\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.csproj.CoreCompileInputs.cache
+C:\Users\janne\source\repos\Forms\SalasananTarkastus\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.dll
+C:\Users\janne\source\repos\Forms\SalasananTarkastus\SalasananTarkastus\obj\Debug\net6.0-windows\refint\SalasananTarkastus.dll
+C:\Users\janne\source\repos\Forms\SalasananTarkastus\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.pdb
+C:\Users\janne\source\repos\Forms\SalasananTarkastus\SalasananTarkastus\obj\Debug\net6.0-windows\SalasananTarkastus.genruntimeconfig.cache
+C:\Users\janne\source\repos\Forms\SalasananTarkastus\SalasananTarkastus\obj\Debug\net6.0-windows\ref\SalasananTarkastus.dll

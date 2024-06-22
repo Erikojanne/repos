@@ -1,0 +1,17 @@
+C:\Users\janne\source\repos\Forms\Harj.14\Harj.14\bin\Debug\net6.0-windows\Harj.14.exe
+C:\Users\janne\source\repos\Forms\Harj.14\Harj.14\bin\Debug\net6.0-windows\Harj.14.deps.json
+C:\Users\janne\source\repos\Forms\Harj.14\Harj.14\bin\Debug\net6.0-windows\Harj.14.runtimeconfig.json
+C:\Users\janne\source\repos\Forms\Harj.14\Harj.14\bin\Debug\net6.0-windows\Harj.14.dll
+C:\Users\janne\source\repos\Forms\Harj.14\Harj.14\bin\Debug\net6.0-windows\Harj.14.pdb
+C:\Users\janne\source\repos\Forms\Harj.14\Harj.14\obj\Debug\net6.0-windows\Harj.14.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Forms\Harj.14\Harj.14\obj\Debug\net6.0-windows\Harj._14.DiaryForm.resources
+C:\Users\janne\source\repos\Forms\Harj.14\Harj.14\obj\Debug\net6.0-windows\Harj.14.csproj.GenerateResource.cache
+C:\Users\janne\source\repos\Forms\Harj.14\Harj.14\obj\Debug\net6.0-windows\Harj.14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Forms\Harj.14\Harj.14\obj\Debug\net6.0-windows\Harj.14.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Forms\Harj.14\Harj.14\obj\Debug\net6.0-windows\Harj.14.AssemblyInfo.cs
+C:\Users\janne\source\repos\Forms\Harj.14\Harj.14\obj\Debug\net6.0-windows\Harj.14.csproj.CoreCompileInputs.cache
+C:\Users\janne\source\repos\Forms\Harj.14\Harj.14\obj\Debug\net6.0-windows\Harj.14.dll
+C:\Users\janne\source\repos\Forms\Harj.14\Harj.14\obj\Debug\net6.0-windows\refint\Harj.14.dll
+C:\Users\janne\source\repos\Forms\Harj.14\Harj.14\obj\Debug\net6.0-windows\Harj.14.pdb
+C:\Users\janne\source\repos\Forms\Harj.14\Harj.14\obj\Debug\net6.0-windows\Harj.14.genruntimeconfig.cache
+C:\Users\janne\source\repos\Forms\Harj.14\Harj.14\obj\Debug\net6.0-windows\ref\Harj.14.dll

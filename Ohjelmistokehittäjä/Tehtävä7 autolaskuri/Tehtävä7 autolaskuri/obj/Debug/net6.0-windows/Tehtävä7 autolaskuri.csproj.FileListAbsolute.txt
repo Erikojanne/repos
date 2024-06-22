@@ -1,0 +1,17 @@
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä7 autolaskuri\Tehtävä7 autolaskuri\bin\Debug\net6.0-windows\Tehtävä7 autolaskuri.exe
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä7 autolaskuri\Tehtävä7 autolaskuri\bin\Debug\net6.0-windows\Tehtävä7 autolaskuri.deps.json
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä7 autolaskuri\Tehtävä7 autolaskuri\bin\Debug\net6.0-windows\Tehtävä7 autolaskuri.runtimeconfig.json
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä7 autolaskuri\Tehtävä7 autolaskuri\bin\Debug\net6.0-windows\Tehtävä7 autolaskuri.dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä7 autolaskuri\Tehtävä7 autolaskuri\bin\Debug\net6.0-windows\Tehtävä7 autolaskuri.pdb
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä7 autolaskuri\Tehtävä7 autolaskuri\obj\Debug\net6.0-windows\Tehtävä7 autolaskuri.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä7 autolaskuri\Tehtävä7 autolaskuri\obj\Debug\net6.0-windows\Tehtävä7_autolaskuri.AutolaskuriForm.resources
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä7 autolaskuri\Tehtävä7 autolaskuri\obj\Debug\net6.0-windows\Tehtävä7 autolaskuri.csproj.GenerateResource.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä7 autolaskuri\Tehtävä7 autolaskuri\obj\Debug\net6.0-windows\Tehtävä7 autolaskuri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä7 autolaskuri\Tehtävä7 autolaskuri\obj\Debug\net6.0-windows\Tehtävä7 autolaskuri.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä7 autolaskuri\Tehtävä7 autolaskuri\obj\Debug\net6.0-windows\Tehtävä7 autolaskuri.AssemblyInfo.cs
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä7 autolaskuri\Tehtävä7 autolaskuri\obj\Debug\net6.0-windows\Tehtävä7 autolaskuri.csproj.CoreCompileInputs.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä7 autolaskuri\Tehtävä7 autolaskuri\obj\Debug\net6.0-windows\Tehtävä7 autolaskuri.dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä7 autolaskuri\Tehtävä7 autolaskuri\obj\Debug\net6.0-windows\refint\Tehtävä7 autolaskuri.dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä7 autolaskuri\Tehtävä7 autolaskuri\obj\Debug\net6.0-windows\Tehtävä7 autolaskuri.pdb
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä7 autolaskuri\Tehtävä7 autolaskuri\obj\Debug\net6.0-windows\Tehtävä7 autolaskuri.genruntimeconfig.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä7 autolaskuri\Tehtävä7 autolaskuri\obj\Debug\net6.0-windows\ref\Tehtävä7 autolaskuri.dll

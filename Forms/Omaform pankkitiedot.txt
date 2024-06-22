@@ -1,0 +1,4 @@
+            oppilaitos.Rows.Add(1, "Nordea", "12345-54321");    
+            oppilaitos.Rows.Add(2, "OP", "67890-09876");
+            oppilaitos.Rows.Add(3, "Aktia", "12345-67890");
+            oppilaitos.Rows.Add(4, "Hypo", "98765-4321");

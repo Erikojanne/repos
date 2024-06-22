@@ -1,0 +1,18 @@
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä8 Roomlaiset nro\Tehtävä8 Roomlaiset nro\obj\Debug\net6.0-windows\Tehtävä8 Roomlaiset nro..csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä8 Roomlaiset nro\Tehtävä8 Roomlaiset nro\obj\Debug\net6.0-windows\Tehtävä8_Roomlaiset_nro_.RoomalaisiksiForm.resources
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä8 Roomlaiset nro\Tehtävä8 Roomlaiset nro\obj\Debug\net6.0-windows\Tehtävä8_Roomlaiset_nro_.Properties.Resources.resources
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä8 Roomlaiset nro\Tehtävä8 Roomlaiset nro\obj\Debug\net6.0-windows\Tehtävä8 Roomlaiset nro..csproj.GenerateResource.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä8 Roomlaiset nro\Tehtävä8 Roomlaiset nro\obj\Debug\net6.0-windows\Tehtävä8 Roomlaiset nro..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä8 Roomlaiset nro\Tehtävä8 Roomlaiset nro\obj\Debug\net6.0-windows\Tehtävä8 Roomlaiset nro..AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä8 Roomlaiset nro\Tehtävä8 Roomlaiset nro\obj\Debug\net6.0-windows\Tehtävä8 Roomlaiset nro..AssemblyInfo.cs
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä8 Roomlaiset nro\Tehtävä8 Roomlaiset nro\obj\Debug\net6.0-windows\Tehtävä8 Roomlaiset nro..csproj.CoreCompileInputs.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä8 Roomlaiset nro\Tehtävä8 Roomlaiset nro\bin\Debug\net6.0-windows\Tehtävä8 Roomlaiset nro..exe
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä8 Roomlaiset nro\Tehtävä8 Roomlaiset nro\bin\Debug\net6.0-windows\Tehtävä8 Roomlaiset nro..deps.json
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä8 Roomlaiset nro\Tehtävä8 Roomlaiset nro\bin\Debug\net6.0-windows\Tehtävä8 Roomlaiset nro..runtimeconfig.json
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä8 Roomlaiset nro\Tehtävä8 Roomlaiset nro\bin\Debug\net6.0-windows\Tehtävä8 Roomlaiset nro..dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä8 Roomlaiset nro\Tehtävä8 Roomlaiset nro\bin\Debug\net6.0-windows\Tehtävä8 Roomlaiset nro..pdb
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä8 Roomlaiset nro\Tehtävä8 Roomlaiset nro\obj\Debug\net6.0-windows\Tehtävä8 Roomlaiset nro..dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä8 Roomlaiset nro\Tehtävä8 Roomlaiset nro\obj\Debug\net6.0-windows\refint\Tehtävä8 Roomlaiset nro..dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä8 Roomlaiset nro\Tehtävä8 Roomlaiset nro\obj\Debug\net6.0-windows\Tehtävä8 Roomlaiset nro..pdb
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä8 Roomlaiset nro\Tehtävä8 Roomlaiset nro\obj\Debug\net6.0-windows\Tehtävä8 Roomlaiset nro..genruntimeconfig.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Tehtävä8 Roomlaiset nro\Tehtävä8 Roomlaiset nro\obj\Debug\net6.0-windows\ref\Tehtävä8 Roomlaiset nro..dll

@@ -1,0 +1,17 @@
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Harj.12\Harj.12\bin\Debug\net6.0-windows\Harj.12.exe
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Harj.12\Harj.12\bin\Debug\net6.0-windows\Harj.12.deps.json
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Harj.12\Harj.12\bin\Debug\net6.0-windows\Harj.12.runtimeconfig.json
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Harj.12\Harj.12\bin\Debug\net6.0-windows\Harj.12.dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Harj.12\Harj.12\bin\Debug\net6.0-windows\Harj.12.pdb
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Harj.12\Harj.12\obj\Debug\net6.0-windows\Harj.12.csproj.AssemblyReference.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Harj.12\Harj.12\obj\Debug\net6.0-windows\Harj._12.VastauslomakeForm.resources
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Harj.12\Harj.12\obj\Debug\net6.0-windows\Harj.12.csproj.GenerateResource.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Harj.12\Harj.12\obj\Debug\net6.0-windows\Harj.12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Harj.12\Harj.12\obj\Debug\net6.0-windows\Harj.12.AssemblyInfoInputs.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Harj.12\Harj.12\obj\Debug\net6.0-windows\Harj.12.AssemblyInfo.cs
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Harj.12\Harj.12\obj\Debug\net6.0-windows\Harj.12.csproj.CoreCompileInputs.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Harj.12\Harj.12\obj\Debug\net6.0-windows\Harj.12.dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Harj.12\Harj.12\obj\Debug\net6.0-windows\refint\Harj.12.dll
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Harj.12\Harj.12\obj\Debug\net6.0-windows\Harj.12.pdb
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Harj.12\Harj.12\obj\Debug\net6.0-windows\Harj.12.genruntimeconfig.cache
+C:\Users\janne\source\repos\Ohjelmistokehittäjä\Harj.12\Harj.12\obj\Debug\net6.0-windows\ref\Harj.12.dll
